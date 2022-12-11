@@ -4,4 +4,5 @@ done
 yit
 trial
 love
+know
 
