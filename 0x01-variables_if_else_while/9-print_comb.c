@@ -7,6 +7,7 @@
 
 int main(void)
 
+
 {
 	int i;
 
@@ -24,4 +25,5 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+
 }
