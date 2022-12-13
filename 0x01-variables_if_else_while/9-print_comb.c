@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 /**
  * main - Entry point
  * Description: prints
@@ -6,7 +7,6 @@
  */
 
 int main(void)
-
 
 {
 	int i;
@@ -18,6 +18,7 @@ int main(void)
 		if (i != 8)
 		{
 			putchar(',');
+
 			putchar(' ');
 		}
 	}
@@ -25,5 +26,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
 }
