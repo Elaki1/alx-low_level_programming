@@ -5,4 +5,5 @@ loop
 kettle
 ore
 left
+only
 
