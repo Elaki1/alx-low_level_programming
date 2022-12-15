@@ -8,4 +8,5 @@ only
 know
 simple
 single
+triangle
 
