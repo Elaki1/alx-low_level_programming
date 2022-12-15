@@ -6,4 +6,5 @@ print
 lofty
 only
 know
+simple
 
