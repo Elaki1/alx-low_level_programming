@@ -7,4 +7,5 @@ ore
 left
 only
 play
+pull
 
