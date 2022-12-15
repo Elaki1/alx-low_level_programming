@@ -7,4 +7,5 @@ lofty
 only
 know
 simple
+single
 
