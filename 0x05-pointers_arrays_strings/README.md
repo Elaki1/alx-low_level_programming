@@ -8,4 +8,5 @@ File 6-cap _string.c is a function that capitalizes all words of a string.
 File 7-leet.c is a function that encodes a string into 1337.
 File 8-rot13.c is a function that encodes a string using rot13.
 File _putchar.c is a function that replaces the standard library function putchar().
+File holberton.h is the header file containing all the function prototypes.
 
