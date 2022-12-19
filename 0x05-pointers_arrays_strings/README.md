@@ -7,4 +7,5 @@ File 5-string_toupper.c is a function that changes all lowercase letters of a st
 File 6-cap _string.c is a function that capitalizes all words of a string.
 File 7-leet.c is a function that encodes a string into 1337.
 File 8-rot13.c is a function that encodes a string using rot13.
+File _putchar.c is a function that replaces the standard library function putchar().
 
